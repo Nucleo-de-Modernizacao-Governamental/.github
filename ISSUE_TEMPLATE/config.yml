@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: "❓ Pergunta"
-    url: https://github.com/Nucleo-de-Modernizacao-Governamental/.github/discussions/new?category=q-a
+    url: https://github.com/orgs/Nucleo-de-Modernizacao-Governamental/discussions/new?category=q-a
     about: "Faça perguntas e participe de discussões."
