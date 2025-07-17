@@ -34,9 +34,9 @@ Estamos sempre explorando novas tecnologias que possam agregar valor aos nossos 
 
 Somos uma comunidade aberta e damos as boas-vindas a todos que queiram contribuir! Você pode nos ajudar de várias formas:
 
-1.  **Reportando Bugs:** Encontrou um problema? Abra uma [issue](https://github.com/seu-usuario/seu-repositorio/issues) detalhando o erro.
-2.  **Sugerindo Funcionalidades:** Tem uma ideia para melhorar um de nossos projetos? Adoraríamos ouvi-la através de uma [issue](https://github.com/seu-usuario/seu-repositorio/issues).
-3.  **Enviando Pull Requests:** Quer colocar a mão na massa? Dê uma olhada em nossos [projetos](https://github.com/orgs/seu-usuario/projects) e issues abertas. Siga nosso guia de contribuição para começar.
+1.  **Reportando Bugs:** Encontrou um problema? Abra uma [issue](https://github.com/Nucleo-de-Modernizacao-Governamental/.github/issues) detalhando o erro.
+2.  **Sugerindo Funcionalidades:** Tem uma ideia para melhorar um de nossos projetos? Adoraríamos ouvi-la através de uma [issue](https://github.com/Nucleo-de-Modernizacao-Governamental/.github/issues).
+3.  **Enviando Pull Requests:** Quer colocar a mão na massa? Dê uma olhada em nossos [projetos](https://github.com/orgs/Nucleo-de-Modernizacao-Governamental/projects) e issues abertas. Siga nosso guia de contribuição para começar.
 
 Toda contribuição, por menor que seja, faz uma grande diferença!
 
@@ -44,9 +44,8 @@ Toda contribuição, por menor que seja, faz uma grande diferença!
 
 ### 📫 Encontre-nos
 
-- **Website:** [Link para o site oficial]
-- **LinkedIn:** [Link para o perfil no LinkedIn]
-- **Email:** [endereço de email para contato]
+- **Website:** [Link para o site oficial](https://simoesfilho.ba.gov.br)
+- **Discord:** [Link para o nosso Discord](https://discord.gg/5nK8qVaU)
 
 <div align="center">
 
