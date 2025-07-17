@@ -1,0 +1,12 @@
+# Estas são plataformas de financiamento de desenvolvedores suportadas
+
+github: [user1, user2]
+patreon: # Substitua com até 4 nomes de usuário do Patreon
+open_collective: # Substitua com um único nome de usuário do Open Collective
+ko_fi: # Substitua com um único nome de usuário do Ko-fi
+tidelift: # Substitua com o nome da sua plataforma/pacote Tidelift, e.g., npm/babel
+community_bridge: # Substitua com o nome do seu projeto Community Bridge, e.g., cloud-foundry
+liberapay: # Substitua com um único nome de usuário do Liberapay
+issuehunt: # Substitua com um único nome de usuário do IssueHunt
+otech: # Substitua com um único nome de usuário do Otechie
+custom: # Substitua com até 4 links personalizados, e.g., ['link1', 'link2']

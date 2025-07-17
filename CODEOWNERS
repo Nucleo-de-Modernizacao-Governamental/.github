@@ -1,0 +1,4 @@
+# Cada linha é um padrão de arquivo seguido por um ou mais proprietários.
+
+*       @user1 @user2
+/docs/  @user3
